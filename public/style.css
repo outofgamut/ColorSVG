@@ -2,7 +2,7 @@ body {
     background: rgb(15,32,39);
     background: linear-gradient(90deg, rgba(44,83,100,1) 0%, rgba(15,32,39,1) 100%);
     font-family: 'Open Sans', sans-serif;
-    color: white;
+    color: #ffffff;
     font-size: 0.9rem;
 }
 @media screen and (max-device-width : 900px) {
@@ -35,7 +35,7 @@ p {
     color: #8E8E93;
 }
 .text-white {
-    color: white;
+    color: #ffffff;
 }
 a {
     color: rgba(197,51,100,1);
@@ -54,7 +54,7 @@ a:hover{
 }
 
 .panel {
-    background: white;
+    background: #ffffff;
     position: relative;
     top: -71px;
     padding: 100px 0 20px;
@@ -109,7 +109,7 @@ svg {
     cursor: pointer;
     transition: box-shadow 300ms ease, background 300ms ease;;
     background: #045364;
-    color: white;
+    color: #ffffff;
     width: 150px;
     height: 50px;
     font-size: 1.3em;;
