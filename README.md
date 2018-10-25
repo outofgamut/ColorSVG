@@ -6,6 +6,14 @@
 
 ColorSVG is a simple web application that allows users to easily modify SVG icon colors.
 
+## Supported Icons
+
+| Icon        | Description  |
+| ------------- | -----:|
+| [![image](/public/assets/images/vscode.png)](https://code.visualstudio.com/)      | VS Code |
+| [![image](/public/assets/images/atom.png)](https://atom.io/)      | Atom |
+| [![image](/public/assets/images/sublime.png)](https://www.sublimetext.com/)      | Sublime |
+
 ## Running
 
 The application is hosted on [Heroku](https://colorsvg.herokuapp.com/). Click on the link to visit the website and start customizing your icons!
